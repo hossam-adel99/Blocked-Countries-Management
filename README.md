@@ -257,5 +257,5 @@ If you like this project:
 
 ---
 
-Made with ❤️ using **.NET 8**, **C#**, and **Swagger**
+Made with ❤️ using **.NET 8**, **C#**, and **Swagger**<br>
 Secure • Scalable • Developer-Friendly
